@@ -58,6 +58,7 @@ int main() {
 	cout << "\t Nama Kota : ";
 	cin >> mhs.alamat.kota;
 
+
 	 
 
 
